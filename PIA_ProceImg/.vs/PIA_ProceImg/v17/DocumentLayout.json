@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|e:\\mis documentos\\semestre enero-mayo 2025\\procesamiento de imagenes\\pia\\pia_proceimg\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|solutionrelative:video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|e:\\mis documentos\\semestre enero-mayo 2025\\procesamiento de imagenes\\pia\\pia_proceimg\\img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|solutionrelative:img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|e:\\mis documentos\\semestre enero-mayo 2025\\procesamiento de imagenes\\pia\\pia_proceimg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|solutionrelative:video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|solutionrelative:img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|e:\\mis documentos\\semestre enero-mayo 2025\\procesamiento de imagenes\\pia\\pia_proceimg\\rostro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|solutionrelative:rostro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\rostro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC2EA6E4-4D8F-46A0-95AF-6DF0275EB30B}|PIA_ProceImg.csproj|solutionrelative:rostro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:20:57.429Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ROSTRO.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\ROSTRO.cs",
+              "RelativeDocumentMoniker": "ROSTRO.cs",
+              "ToolTip": "D:\\Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\ROSTRO.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:27:57.207Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMG.cs",
+              "DocumentMoniker": "E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\IMG.cs",
+              "RelativeDocumentMoniker": "IMG.cs",
+              "ToolTip": "E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\IMG.cs",
+              "RelativeToolTip": "IMG.cs",
+              "ViewState": "AgIAAAYCAAAAAAAAAAAgwA4CAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:25:53.125Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMG.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\IMG.cs",
+              "RelativeDocumentMoniker": "IMG.cs",
+              "ToolTip": "D:\\Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\IMG.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T23:12:06.712Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T16:36:31.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ROSTRO.cs",
+              "DocumentMoniker": "E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\ROSTRO.cs",
+              "RelativeDocumentMoniker": "ROSTRO.cs",
+              "ToolTip": "E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\ROSTRO.cs",
+              "RelativeToolTip": "ROSTRO.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAkwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:46:24.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VIDEO.cs",
+              "DocumentMoniker": "E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\VIDEO.cs",
+              "RelativeDocumentMoniker": "VIDEO.cs",
+              "ToolTip": "E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\VIDEO.cs",
+              "RelativeToolTip": "VIDEO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:00:20.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VIDEO.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Mis Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\VIDEO.cs",
+              "RelativeDocumentMoniker": "VIDEO.cs",
+              "ToolTip": "D:\\Documentos\\SEMESTRE ENERO-MAYO 2025\\procesamiento de imagenes\\PIA\\PIA_ProceImg\\VIDEO.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:07:46.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
