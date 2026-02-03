@@ -29,10 +29,9 @@ Una suite de software de escritorio desarrollada en **C# .NET** capaz de aplicar
 ### 🤖 Visión Artificial (Computer Vision)
 - **Detección de Objetos:** Implementación de algoritmos de **Color Tracking** utilizando la cámara web.
 - Uso de librerías especializadas (**AForge.NET** y **Emgu CV**) para el manejo de dispositivos de captura y análisis de matrices.
+![Interfaz de Filtros de Imagen](./PIA_ProceImg/screenshots/Color.gif)
 
 ## 🧮 Catálogo de Filtros Implementados
-
-El sistema aplica transformaciones matriciales y lógicas para lograr los siguientes efectos:
 
 | Categoría | Filtros Disponibles |
 | :--- | :--- |
