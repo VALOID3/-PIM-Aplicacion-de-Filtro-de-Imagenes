@@ -6,10 +6,12 @@ Una suite de software de escritorio desarrollada en **C# .NET** capaz de aplicar
 
 ### 🎨 Módulo de Filtros de Imagen
 *Aplicación de filtros de convolución y ajustes de color con visualización de Histograma.*
-![Interfaz de Filtros de Imagen](./screenshots/filtro-imagen.jpg)
+![Interfaz de Filtros de Imagen](./PIA_ProceImg/screenshots/FiltroImg.gif)
+![Interfaz de Filtros de Imagen](./PIA_ProceImg/screenshots/FiltroImg2.gif)
 ### 🎥 Módulo de Procesamiento de Video
 *Renderizado en tiempo real de efectos visuales y controles de reproducción.*
-![Interfaz de Video](./screenshots/filtro-video.png)
+![Interfaz de Video](./PIA_ProceImg/screenshots/FiltroVideo.gif)
+![Interfaz de Video](./PIA_ProceImg/screenshots/FiltroVideo2.gif)
 ## 🚀 Características Principales
 
 ### 🖼️ Procesamiento de Imágenes Estáticas
@@ -21,7 +23,7 @@ Una suite de software de escritorio desarrollada en **C# .NET** capaz de aplicar
 - **Análisis de Datos:** Generación de **Histograma RGB** para visualizar la distribución de color.
 
 ### 📹 Procesamiento de Video en Tiempo Real
-- Capacidad para cargar archivos de video y aplicar la misma librería de filtros "on-the-fly" sin latencia perceptible.
+- Capacidad para cargar archivos de video.
 - Controles de reproducción integrados (Play, Pause, Stop, Reset).
 
 ### 🤖 Visión Artificial (Computer Vision)
@@ -46,10 +48,3 @@ El sistema aplica transformaciones matriciales y lógicas para lograr los siguie
 - **Librerías de Visión:**
   - `AForge.Video.DirectShow` (Gestión de hardware de cámara).
   - `Emgu.CV` (Wrapper de OpenCV para .NET).
-- **Técnicas de Optimización:** Uso de `LockBits` y aritmética de punteros para manipulación directa de memoria (evitando la lentitud de `GetPixel/SetPixel`).
-
-## 🔧 Instalación y Ejecución
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/tu-usuario/vision-system.git](https://github.com/tu-usuario/vision-system.git)
